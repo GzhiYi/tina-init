@@ -1,0 +1,21 @@
+<config>
+{
+  "window": {
+    "navigationBarBackgroundColor": "#25798a",
+    "backgroundColor": "#25798a"
+  },
+  "pages": [
+    "pages/home.mina"
+  ]
+}
+</config>
+
+<script>
+import Tina from '@tinajs/tina'
+import router from '@tinajs/tina-router'
+
+Tina.use(router)
+
+App({
+})
+</script>
