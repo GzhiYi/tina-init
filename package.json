@@ -20,7 +20,9 @@
     "@tinajs/tina-router": "^0.6.0",
     "@tinajs/tinax": "^0.1.2",
     "es6-promise": "^4.1.1",
-    "keymirror": "^0.1.1"
+    "fecha": "^3.0.3",
+    "keymirror": "^0.1.1",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "@babel/core": "^7.1.0",
