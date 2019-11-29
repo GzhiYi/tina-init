@@ -13,8 +13,10 @@
 <script>
 import Tina from '@tinajs/tina'
 import router from '@tinajs/tina-router'
+import ImmutablePlugin from '@tinajs/tina-immutable'
 
 Tina.use(router)
+Tina.use(ImmutablePlugin)
 
 App({
 })
